@@ -178,7 +178,6 @@ public class App
         	}
         	}while(tipoCuenta == 0);
         	
-        	
         	try{
         	clienteDao.agregarCliente(cliente[i]);
         	
@@ -253,7 +252,7 @@ public class App
 	            		salir=true;
 	            		break;
 	            	default:
-	            		System.out.println("Solo números del 1 al 3");
+	            		System.out.println("Solo números del 1 al 3 ");
             	}
         	}
         }
