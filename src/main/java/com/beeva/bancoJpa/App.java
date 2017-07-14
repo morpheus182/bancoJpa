@@ -253,7 +253,7 @@ public class App
 	            		salir=true;
 	            		break;
 	            	default:
-	            		System.out.println("!!!!!! Solo números entre 1 y 3 !!!!!!!!!");
+	            		System.out.println("Solo números del 1 al 3");
             	}
         	}
         }
